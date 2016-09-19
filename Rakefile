@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "explicit-eval"
   gem.homepage = "http://github.com/flyfy1/explicit-eval"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Uesd for code demo. Show the code plus eval}
+  gem.description = %Q{This code would show the code evaluated, plus the evaluation result}
   gem.email = "flyfy1@gmail.com"
   gem.authors = ["Song Yangyu"]
   # dependencies defined in Gemfile
