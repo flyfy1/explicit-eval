@@ -22,10 +22,12 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "explicit-eval.gemspec",
     "lib/explicit-eval.rb",
     "spec/explicit-eval_spec.rb",
     "spec/spec_helper.rb"
